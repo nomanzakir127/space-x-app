@@ -1,0 +1,58 @@
+@media only screen and (min-width: 660px) {
+    .missionCard{  
+        margin-left:22% !important
+    }
+  }
+.missionCard{  
+    margin-left:8%
+}
+
+.LaunchHeading{
+    color: white;
+}
+.boxConatiner{
+    display: flex;
+}
+
+.SuccessBox{
+    width:40px;
+    height: 28px;
+    margin-top: 10px;
+    background-color: green;
+}
+
+.FailureBox{
+    width:40px;
+    height: 28px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    background-color: #e50000 !important;
+}
+
+.LaunchInfo{
+    margin-top: 15px !important;
+    margin-left: 4px !important;
+    color: white
+}
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
